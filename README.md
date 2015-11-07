@@ -1,6 +1,8 @@
 # photo-density
 Plot density of photo locations.
 
+View the [Project Ideas](https://github.com/pdil/photo-density/wiki/Project-Ideas) wiki for further development updates.
+
 
 #### Example
 <img src="http://pdil.github.io/images/sw_us_density.png" width="70%">
