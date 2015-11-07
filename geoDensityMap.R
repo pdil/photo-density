@@ -1,13 +1,10 @@
 
 
-library(ggplot2)
 library(ggmap)
-library(grid)
-library(gridExtra)
 
 # import data from csv
 # headers are id, date, file, lat, lon
-geo_data <- read.csv("../data/geoDataTable.csv", header = TRUE)
+geo_data <- read.csv("data/geoDataTable.csv", header = TRUE)
 # missing values were entered as -999
 geo_data[] <- lapply(geo_data, function(x) {replace(x, x == -999, NA)})
 
