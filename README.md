@@ -17,6 +17,8 @@ id | year | month | day | file | lat | lon
 ... | ... | ...   | ... | ...          | ...        | ...
 1498 | 2015 |	Apr |	  7 |	IMG_5410.jpg | 35.08214167 | -106.6247944
 
+The Java code uses the ```metadata-extractor``` library file available here: https://github.com/drewnoakes/metadata-extractor
+
 ##### 1. Install and load ```ggmap```
 ```R
 install.packages("ggmap")
