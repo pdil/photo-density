@@ -33,7 +33,7 @@ Import the file containing photo locations:
 # headers are id, date, file, lat, lon
 geo_data <- read.csv("data/geoDataTable.csv", header = TRUE)
 ```
-Missing values in the data set were automatically entered as -999 by the Java code, so we replace them the R-friendly ```NA``` here.
+Missing values in the data set were automatically entered as -999 by the Java code, so we replace them with the R-friendly ```NA``` here.
 ```R
 # missing values were entered as -999
 geo_data[] <- lapply(geo_data, function(x) {replace(x, x == -999, NA)})
