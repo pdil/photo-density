@@ -5,7 +5,7 @@ Plot density of photo locations.
 #### Example
 <img src="http://pdil.github.io/images/sw_us_density.png" width="70%">
 
-The code to create this image is presented here (note: this code assumes a dataset has already been created - see Java code for how to do this).
+The step-by-step code and process to create this image is presented below.
 
 ##### 0. Create photo geodata file
 The ```Java Extractor``` folder contains the ```.java``` file which handles the creation of the data set of photo locations that are plotted on a map. A sample of the data set is as follows:
