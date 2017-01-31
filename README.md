@@ -5,6 +5,6 @@ View the [Project Ideas](https://github.com/pdil/photo-density/wiki/Project-Idea
 
 
 #### Example
-<img src="http://pdil.github.io/images/sw_us_density.png" width="70%">
+<img src="http://dilorenzo.pl/images/sw_us_density.png" width="70%">
 
 The step-by-step code and process to create this image using ```ggmap``` is presented in the [Tutorial](https://github.com/pdil/photo-density/wiki/Tutorial).
