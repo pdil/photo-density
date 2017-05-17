@@ -10,4 +10,4 @@ View the [Project Ideas](https://github.com/pdil/photo-density/wiki/Project-Idea
 The step-by-step code and process to create this image using ```ggmap``` is presented in the [Tutorial](https://github.com/pdil/photo-density/wiki/Tutorial).
 
 ## Acknowledgements
-This process makes use of the [Metadata Extractor](https://github.com/drewnoakes/metadata-extractor) library (Java).
+This project makes use of the [Metadata Extractor](https://github.com/drewnoakes/metadata-extractor) library (Java).
